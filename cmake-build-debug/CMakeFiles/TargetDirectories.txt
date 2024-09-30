@@ -1,0 +1,8 @@
+D:/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/c/cmake-build-debug/Homework1/CMakeFiles/yuan.dir
+D:/c/cmake-build-debug/Homework1/CMakeFiles/edit_cache.dir
+D:/c/cmake-build-debug/Homework1/CMakeFiles/rebuild_cache.dir
+D:/c/cmake-build-debug/Homework2/CMakeFiles/di.dir
+D:/c/cmake-build-debug/Homework2/CMakeFiles/edit_cache.dir
+D:/c/cmake-build-debug/Homework2/CMakeFiles/rebuild_cache.dir
